@@ -1,0 +1,2 @@
+#define SERVER_PORT (82)
+#define MAX_CONNECTIONS (1024)
